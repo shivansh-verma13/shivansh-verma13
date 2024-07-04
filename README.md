@@ -6,7 +6,8 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate **Front-End Developer** and **Full-Stack Intern** specializing in building robust web applications using modern technologies. Pursuing a B.Tech in Artificial Intelligence and Data Science from the **University School of Automation and Robotics, GGSIPU**, I excel at creating responsive, user-friendly interfaces and scalable back-end solutions.
+<img src="https://img.icons8.com/color/48/000000/laptop.png" alt="Laptop Icon" align="left"/>
+I’m a passionate **Front-End Developer** and **Full-Stack Developer** specializing in building robust web applications using modern technologies. Pursuing a B.Tech in Artificial Intelligence and Data Science from the **University School of Automation and Robotics, GGSIPU**, I excel at creating responsive, user-friendly interfaces and scalable back-end solutions.
 
 ---
 
@@ -67,62 +68,92 @@ I’m a passionate **Front-End Developer** and **Full-Stack Intern** specializin
 ## 🏢 Work Experience
 
 ### **Front-End Developer Intern** - PgVala | Remote
+<img src="https://img.icons8.com/color/48/000000/developer.png" alt="Developer Icon" align="left"/>
 *September 2023 - November 2023*
 
-- Engineered a PWA with React, HTML, CSS, boosting user engagement by 20%.
-- Integrated Cloudflare Tunnel and JWT Token for secure access.
-- Built responsive UI using Material UI and React-Bootstrap.
+- ⚙️ Engineered a PWA with React, HTML, CSS, boosting user engagement by 20%.
+- 🔒 Integrated Cloudflare Tunnel and JWT Token for secure access.
+- 🖌️ Built responsive UI using Material UI and React-Bootstrap.
 
-### **Software Engineer Full-Stack Intern** - Hattyhood | Remote
+<br clear="left"/>
+
+### **Full-Stack Developer Intern** - Hattyhood | Remote
+<img src="https://img.icons8.com/fluency/48/000000/engineering.png" alt="Engineer Icon" align="left"/>
 *September 2023 - October 2023*
 
-- Spearheaded Front-End development, increasing user retention by 30%.
-- Managed Back-End with Express.js, MongoDB, and Node.js.
-- Collaborated effectively to achieve project milestones ahead of schedule.
+- 🔍 Spearheaded Front-End development, increasing user retention by 30%.
+- 🗄️ Managed Back-End with Express.js, MongoDB, and Node.js.
+- 🎯 Collaborated effectively to achieve project milestones ahead of schedule.
+
+<br clear="left"/>
 
 ---
 
 ## 🛠️ Projects
 
 ### [**MERN-GPT**](https://www.youtube.com/watch?v=9jNV4EnDWD8) - Video Demo
-- Built a MERN Stack app using OpenAI’s 3.5 Turbo model for instant responses.
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-openai-an-artificial-intelligence-research-laboratory-logo-color-tal-revivo.png" alt="OpenAI Icon" align="left"/>
+- 🧠 Built a MERN Stack app using OpenAI’s 3.5 Turbo model for instant responses.
 - **Tech Stack**: Material UI, Node.js, React, Express, MongoDB.
 
+<br clear="left"/>
+
 ### [**MERN-ChatApp**](https://www.youtube.com/watch?v=Mva_jt6xWJo) - Video Demo
-- Created a real-time chat app with emojis using MERN Stack.
+<img src="https://img.icons8.com/color/48/000000/chat.png" alt="Chat Icon" align="left"/>
+- 💬 Created a real-time chat app with emojis using MERN Stack.
 - **Tech Stack**: WebSockets, Tailwind CSS.
 
+<br clear="left"/>
+
 ### [**MERN-VideoMeet**](https://videomeeet.netlify.app/) - Try It!
-- Developed a video meeting app utilizing WebRTC, replicating Google Meet functionalities.
+<img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-meeting-digital-nomad-flatart-icons-flat-flatarticons.png" alt="Meeting Icon" align="left"/>
+- 📹 Developed a video meeting app utilizing WebRTC, replicating Google Meet functionalities.
 - **Tech Stack**: WebRTC, Tailwind CSS.
 
+<br clear="left"/>
+
 ### [**RecipeBlog**](https://www.youtube.com/watch?v=NR5wuXwaJ0Q) - Video Demo
-- Designed a MERN Stack Recipe Blog App with robust authentication features.
+<img src="https://img.icons8.com/fluency/48/000000/recipe.png" alt="Recipe Icon" align="left"/>
+- 🍲 Designed a MERN Stack Recipe Blog App with robust authentication features.
 - **Tech Stack**: MERN Stack.
 
+<br clear="left"/>
+
 ### **Regression Analysis**
-- Conducted regression analysis on an Air Quality dataset using six models.
+<img src="https://img.icons8.com/color/48/000000/line-chart.png" alt="Chart Icon" align="left"/>
+- 📈 Conducted regression analysis on an Air Quality dataset using six models.
 - Achieved 90% predictive accuracy.
+
+<br clear="left"/>
 
 ---
 
 ## 🎓 Education
 
 ### **University School of Automation and Robotics, GGSIPU**
+<img src="https://img.icons8.com/color/48/000000/graduation-cap.png" alt="Graduation Icon" align="left"/>
 *Bachelor’s of Technology in Artificial Intelligence and Data Science*  
 *2021 - 2025* | CGPA: 8.6
 
+<br clear="left"/>
+
 ### **Kendriya Vidyalaya**
+<img src="https://img.icons8.com/color/48/000000/school-building.png" alt="School Icon" align="left"/>
 *Science in Computer Science*  
 *2009 - 2021* | 91%
+
+<br clear="left"/>
 
 ---
 
 ## 🌟 Achievements & Extracurriculars
 
+<img src="https://img.icons8.com/color/48/000000/medal.png" alt="Medal Icon" align="left"/>
 - Core Member of First Elysian DesTech Fest, boosted participation by 20%.
-- Top 10 in The Great Indian Hackathon among 200 participants.
+- 🏆 Top 10 in The Great Indian Hackathon among 200 participants.
 - **Certificate**: [The Complete Web Development Bootcamp](https://www.udemy.com/certificate/UC-d5ec33b5-10fc-4f52-9e24-904ceb55be2a/)
+
+<br clear="left"/>
 
 ---
 

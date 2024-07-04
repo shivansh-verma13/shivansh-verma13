@@ -12,11 +12,55 @@ I’m a passionate **Front-End Developer** and **Full-Stack Intern** specializin
 
 ## 🔧 Technical Skills
 
-- **Languages**: JavaScript, TypeScript, Python, C++, C, NoSQL, MySQL
-- **Front-End**: React.js, Vue.js, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, PWAs, Redux, Context-API
-- **Back-End**: Node.js, Express.js, MongoDB, PostgreSQL, RESTful APIs
-- **Tools**: Git, GitHub, Postman, Canva (Basic), Figma (Basic)
-- **Others**: Data Structures, Algorithms, OOP, Operating Systems, Data Visualization, Software Engineering
+### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/NoSQL-006747?style=for-the-badge&logo=nosql&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### **Front-End**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### **Back-End**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/RESTful%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+### **Others**
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-00897B?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Data Structures" />
+  <img src="https://img.shields.io/badge/Algorithms-1A237E?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-009688?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Object Oriented Programming" />
+  <img src="https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems" />
+  <img src="https://img.shields.io/badge/Data_Visualization-FF9800?style=for-the-badge&logo=chartjs&logoColor=white" alt="Data Visualization" />
+  <img src="https://img.shields.io/badge/Software_Engineering-7C4DFF?style=for-the-badge&logo=gradle&logoColor=white" alt="Software Engineering" />
+</p>
 
 ---
 
